@@ -26,6 +26,8 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/Zustand-593D88.svg?style=for-the-badge)  
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)  
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=qt&logoColor=white)  
 
 ---
 
